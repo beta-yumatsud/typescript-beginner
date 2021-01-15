@@ -1,2 +1,2 @@
-# typscript-beginner
+# typescript-beginner
 プログラミングTypeScriptを読んでみた
